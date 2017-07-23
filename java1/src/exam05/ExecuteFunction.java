@@ -5,6 +5,7 @@ import exam04.FunctionExam;
 public class ExecuteFunction {
 
 	public static void main(String[] args) {
-			
+		FunctionExam fe = new FunctionExam();
+		
 	}
 }
